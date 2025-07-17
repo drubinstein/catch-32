@@ -2,7 +2,7 @@
 
 A Python application that determines if the B32 bus is currently at a stop using the MTA's SIRI Vehicle Monitoring API. 
 
-Why? Because the B32 often disappears or doesn't show up at its schedule times. The best way to know if the B32 is on its way is to check if it's started moving.
+Why? Because the B32 often disappears or doesn't show up at its scheduled times. The best way to know if the B32 is on its way is to check if it has started moving.
 
 Eventually, I will integrate this script with various notification systems. Those notification systems will probably not be merged, but if a developer wants to write the scaffolding for Twilio, WhatsApp, Google Meet, etc., I'll take your PRs.
 
